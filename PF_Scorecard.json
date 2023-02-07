@@ -5,33 +5,127 @@
       "name": "Couverture contraceptive",
       "titre": "taux de couverture contraceptive"
     },
-       {
+    {
       "code": "G3",
-      "name": "PDV",
-      "titre": "Taux de perdue de vue"
+      "name": "PCIM",
+      "titre": "Proportion d'enfants < 5 ans prise en charge"
+    },
+    {
+      "code": "G4",
+      "name": "Intrant",
+      "titre": "Taux de disponibilité en intrants"
     }
   ],
   "indicators": [
     {
-      "achieved": "39",
-      "dhisID": "MG50SMpXlXU",
-      "dhisName": "CSB PF Taux de couverture contraceptive",
-      "formula": " ",
+      "achieved": "19",
+      "dhisID": "LZOMImJNUHC",
+      "dhisName": "CSB PF Taux de couverture contraceptive 10-24 ans Toutes méthodes",
+      "formula": "",
       "groupCode": "G1",
-      "name": "CSB TCC",
-      "notInTrack": "30",
+      "name": "Taux de couverture contraceptive",
+      "notInTrack": "12",
       "target": "100",
       "type": "indicator"
     },
     {
-      "achieved": "1",
-      "dhisID": "k1ouDe1xASm",
-      "dhisName": "Taux de perdues de vue total",
+      "achieved": "94",
+      "dhisID": "HVfBNrvk8kX",
+      "dhisName": "CSB PCIME Proportion d'enfants moins de 5 ans correctement prise en charge pour cas de diarrhées",
       "formula": "",
       "groupCode": "G3",
-      "name": "CSB PDV",
-      "notInTrack": "5",
-      "target": "0",
+      "name": "Taux de couverture contraceptive",
+      "notInTrack": "80",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "94",
+      "dhisID": "SbiaLF3j9H3",
+      "dhisName": "CSB PCIME Proportion d'enfants moins de 5 ans correctement prise en charge pour cas de diarrhées",
+      "formula": "",
+      "groupCode": "G3",
+      "name": "Taux de couverture contraceptive",
+      "notInTrack": "80",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "JCPUREETDKH",
+      "dhisName": "CSB FANOME Traceurs Taux de Disponibilite Amoxicilline gélule 500 mg",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "Taux de disponibilité en intrants",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "C9ChpGYqEbE",
+      "dhisName": "COM Taux de disponibilité en Amoxicilline 250 mg",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "Taux de disponibilité en intrants",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "C9ChpGYqEbE",
+      "dhisName": "20.    CSB FANOME Traceurs Taux de Disponibilite Cotrimoxazole cp 120 mg",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "Taux de disponibilité en intrants",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "zqdFNTuGIcC",
+      "dhisName": "CSB FANOME Traceurs Taux de Disponibilite Cotrimoxazole cp 480 mg",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "Taux de disponibilité en intrants",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    }
+    ,
+    {
+      "achieved": "98",
+      "dhisID": "dSttlapO8F0",
+      "dhisName": "CHRD Taux de disponibilite en Cotrimoxazole comprimé",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "Taux de disponibilité en intrants",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "bf33m8fblCF",
+      "dhisName": "21.   CSB FANOME Traceurs Taux de Disponibilite SRO/Zinc",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "Taux de disponibilité en intrants",
+      "notInTrack": "65",
+      "target": "100",
+      "type": "indicator"
+    },
+    {
+      "achieved": "98",
+      "dhisID": "AlTHPpDEcR3",
+      "dhisName": "21.   CSB FANOME Traceurs Taux de Disponibilite SRO/Zinc",
+      "formula": "",
+      "groupCode": "G4",
+      "name": "Taux de disponibilité en intrants",
+      "notInTrack": "65",
+      "target": "100",
       "type": "indicator"
     }
   ],

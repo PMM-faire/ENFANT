@@ -75,7 +75,7 @@
     {
       "achieved": "98",
       "dhisID": "C9ChpGYqEbE",
-      "dhisName": "20.    CSB FANOME Traceurs Taux de Disponibilite Cotrimoxazole cp 120 mg",
+      "dhisName": "CSB FANOME Traceurs Taux de Disponibilite Cotrimoxazole cp 120 mg",
       "formula": "",
       "groupCode": "G4",
       "name": "Taux de disponibilité en intrants",
@@ -93,8 +93,7 @@
       "notInTrack": "65",
       "target": "100",
       "type": "indicator"
-    }
-    ,
+    },
     {
       "achieved": "98",
       "dhisID": "dSttlapO8F0",
@@ -109,7 +108,7 @@
     {
       "achieved": "98",
       "dhisID": "bf33m8fblCF",
-      "dhisName": "21.   CSB FANOME Traceurs Taux de Disponibilite SRO/Zinc",
+      "dhisName": "CSB FANOME Traceurs Taux de Disponibilite SRO/Zinc",
       "formula": "",
       "groupCode": "G4",
       "name": "Taux de disponibilité en intrants",
@@ -120,7 +119,7 @@
     {
       "achieved": "98",
       "dhisID": "AlTHPpDEcR3",
-      "dhisName": "21.   CSB FANOME Traceurs Taux de Disponibilite SRO/Zinc",
+      "dhisName": "CSB FANOME Traceurs Taux de Disponibilite SRO/Zinc",
       "formula": "",
       "groupCode": "G4",
       "name": "Taux de disponibilité en intrants",
